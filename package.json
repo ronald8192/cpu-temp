@@ -1,0 +1,11 @@
+{
+  "name": "temperature-logs",
+  "version": "1.0.0",
+  "description": "show csv temperature logs",
+  "main": "server.js",
+  "author": "ronald8192",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
